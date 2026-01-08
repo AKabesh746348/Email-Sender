@@ -10,7 +10,7 @@ app.config["MAIL_PORT"] = 587
 app.config["MAIL_USE_TLS"] = True
 app.config["MAIL_USERNAME"] =  "akabesh2000@gmail.com"
 app.config["MAIL_PASSWORD"] =   "vjfh tptk zwfl jcxq"
-app.config["MAIL_DEFAULT_SENDER"] = "madhanramasamy6@gmail.com"
+app.config["MAIL_DEFAULT_SENDER"] = "akabesh746348@gmail.com"
 mail = Mail(app)
 
 @app.post("/send-mail")
