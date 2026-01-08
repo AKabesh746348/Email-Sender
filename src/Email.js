@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './mail.scss';
+import './Email.scss';
 
 function Email() {
 
